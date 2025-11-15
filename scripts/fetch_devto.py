@@ -17,4 +17,3 @@ def fetch_devto_articles():
 
 if __name__ == "__main__":
     fetch_devto_articles()
-  
