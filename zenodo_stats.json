@@ -1,0 +1,20 @@
+{
+  "pointerParadigm": {
+    "unique_views": 243,
+    "unique_downloads": 227,
+    "total_views": 446,
+    "total_downloads": 473
+  },
+  "localDataParadigm": {
+    "unique_views": 155,
+    "unique_downloads": 148,
+    "total_views": 233,
+    "total_downloads": 251
+  },
+  "deterministicEngine": {
+    "unique_views": 68,
+    "unique_downloads": 58,
+    "total_views": 110,
+    "total_downloads": 116
+  }
+}

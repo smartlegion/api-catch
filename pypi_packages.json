@@ -1,0 +1,141 @@
+[
+  {
+    "name": "babylonian-image-library",
+    "version": "0.1.4",
+    "summary": "A Python library that generates unique images based on a given seed or address. It also provides functionality to generate random addresses, which can be used to create random images.",
+    "is_valid": true
+  },
+  {
+    "name": "climan",
+    "version": "0.3.1",
+    "summary": "Cross-platform config and manager for click console utilities.",
+    "is_valid": true
+  },
+  {
+    "name": "clipassgen",
+    "version": "1.2.0",
+    "summary": "Console Smart Passwords Generator. Cross-platform console utility for generating cryptographically strong, recoverable, smart passwords.",
+    "is_valid": true
+  },
+  {
+    "name": "clipassman",
+    "version": "1.2.0",
+    "summary": "Cross-platform console Smart Password manager and generator.",
+    "is_valid": true
+  },
+  {
+    "name": "commandex",
+    "version": "0.3.1",
+    "summary": "A cross-platform library for creation, storage, management of commands and command packages. Execution of commands, parsing of files with command packages.",
+    "is_valid": true
+  },
+  {
+    "name": "commandman",
+    "version": "0.5.2",
+    "summary": "Console utility for working with command packages. Storage, execution, autorun.",
+    "is_valid": true
+  },
+  {
+    "name": "commandpack",
+    "version": "0.3.2",
+    "summary": "A cross-platform library for creation, storage, management of commands and command packages. Execution of commands, parsing of files with command packages.",
+    "is_valid": true
+  },
+  {
+    "name": "github-ssh-key",
+    "version": "0.4.2",
+    "summary": "GitHub ssh key manager. Console utility for creating, getting, testing, using public ssh keys for GitHub.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-2fa-secure",
+    "version": "0.2.3",
+    "summary": "Advanced Two-Factor Authentication system with enhanced security features.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-babylon-library",
+    "version": "0.6.5",
+    "summary": "A Python library for creating and manipulating text libraries, inspired by the Library of Babel concept and my own concept of Smart Passwords.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-redis-storage",
+    "version": "0.2.3",
+    "summary": "Convenient work with Redis.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-text-randomizer",
+    "version": "0.0.4",
+    "summary": "Smart Text Randomizer.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-tsp-benchmark",
+    "version": "1.0.0",
+    "summary": "Smart TSP Benchmark is a professional algorithm testing infrastructure with customizable scenarios and detailed metrics.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-tsp-solver",
+    "version": "1.0.0",
+    "summary": "A high-performance Python library for solving the Traveling Salesman Problem (TSP) using novel heuristic approaches. Features advanced algorithms that outperform classical methods by ~25% on real-world clustered data while maintaining practical computational efficiency.",
+    "is_valid": true
+  },
+  {
+    "name": "smartauthen",
+    "version": "0.2.4",
+    "summary": "Smart, simple, lightweight, secure cross-platform authentication for any application.",
+    "is_valid": true
+  },
+  {
+    "name": "smartcliapp",
+    "version": "0.4.2",
+    "summary": "Cross-platform library of tools for creating console applications, based on the click library.",
+    "is_valid": true
+  },
+  {
+    "name": "smartexecutorlib",
+    "version": "0.1.1",
+    "summary": "Smart executors.",
+    "is_valid": true
+  },
+  {
+    "name": "smartpasslib",
+    "version": "1.2.1",
+    "summary": "Cross-platform library for generating smart passwords.",
+    "is_valid": true
+  },
+  {
+    "name": "smartpathlibrary",
+    "version": "0.1.3",
+    "summary": "Library for working with paths to files and folders.",
+    "is_valid": true
+  },
+  {
+    "name": "smartprinter",
+    "version": "0.3.1",
+    "summary": "Cross-platform smart printer for console applications",
+    "is_valid": true
+  },
+  {
+    "name": "smartrandom",
+    "version": "0.3.1",
+    "summary": "Random data generators. Allows you to generate random strings of a given length from letters, numbers and symbols, as well as randomize text. Helps generate passwords, service codes (for example, for sending via SMS), hashes and much more. Generates smart, recoverable passwords.",
+    "is_valid": true
+  },
+  {
+    "name": "smarttextdecorator",
+    "version": "0.1.3",
+    "summary": "A cross-platform library for decorating strings and displaying them beautifully in the console. Generates and displays lines to the full width of the console with the specified text and a placeholder character. Generates and displays a line with the specified text, decorated at the top and bottom with filler characters along the length of the line. Use for beautiful design of console applications.",
+    "is_valid": true
+  },
+  {
+    "name": "smart-ip-info",
+    "version": "0.0.0",
+    "summary": "Package not found",
+    "is_valid": false,
+    "not_found": true
+  }
+]
