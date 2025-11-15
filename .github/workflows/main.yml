@@ -1,0 +1,51 @@
+name: Update Website Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          ref: master
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch GitHub repositories
+        run: python scripts/fetch_github.py
+
+      - name: Fetch PyPI packages  
+        run: python scripts/fetch_pypi.py
+
+      - name: Fetch Dev.to articles
+        run: python scripts/fetch_devto.py
+
+      - name: Fetch Zenodo stats
+        run: python scripts/fetch_zenodo.py
+
+      - name: Show results
+        run: |
+          echo "📁 Generated files:"
+          ls -la *.json
+          echo "🔥 SUCCESS! All data fetched!"
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add *.json
+          git commit -m "🚀 Data update: $(date -Iminutes)" || echo "🤷 No changes"
+          git push origin master
