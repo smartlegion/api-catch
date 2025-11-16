@@ -4,7 +4,8 @@ import json
 ZENODO_RECORDS = {
     'pointerParadigm': '17204738',
     'localDataParadigm': '17264327', 
-    'deterministicEngine': '17383447'
+    'deterministicEngine': '17383447',
+    'pchParadigm': '17614888'
 }
 
 def fetch_zenodo_stats(record_id):
