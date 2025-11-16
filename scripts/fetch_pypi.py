@@ -8,7 +8,7 @@ PYPI_PACKAGES = [
     'smartexecutorlib', 'climan', 'github-ssh-key', 'commandpack',
     'smartprinter', 'smartcliapp', 'commandex', 'smartrandom',
     'smarttextdecorator', 'smartauthen', 'smart-redis-storage',
-    'smart-text-randomizer', 'smart-ip-info'
+    'smart-text-randomizer'
 ]
 
 def fetch_pypi_package(package_name):
