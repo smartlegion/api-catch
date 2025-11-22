@@ -993,7 +993,7 @@
     "description": "Simplifies the cloning of private GitHub repositories, for example on Termux or on a server.",
     "language": "Python",
     "stargazers_count": 6,
-    "forks_count": 1,
+    "forks_count": 2,
     "watchers_count": 6,
     "topics": [
       "cli-app",
