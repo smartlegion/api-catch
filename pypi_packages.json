@@ -1,8 +1,8 @@
 [
   {
     "name": "babylonian-image-library",
-    "version": "0.1.4",
-    "summary": "A Python library that generates unique images based on a given seed or address. It also provides functionality to generate random addresses, which can be used to create random images.",
+    "version": "1.0.0",
+    "summary": "A deterministic infinite image library generator inspired by Borges' 'The Library of Babel'. Generate unique, deterministic images based on coordinate systems without storing image data.",
     "is_valid": true
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "name": "smart-babylon-library",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "summary": "Smart Babylon Library. A deterministic infinite library generator. Generate unique, deterministic books and pages based on coordinate systems without storing any data.",
     "is_valid": true
   },

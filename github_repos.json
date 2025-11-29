@@ -1,5 +1,37 @@
 [
   {
+    "id": 952929231,
+    "name": "babylonian-image-library",
+    "full_name": "smartlegionlab/babylonian-image-library",
+    "html_url": "https://github.com/smartlegionlab/babylonian-image-library",
+    "description": "A deterministic infinite image library generator inspired by Borges' 'The Library of Babel'. Generate unique, deterministic images based on coordinate systems without storing image data.",
+    "language": "Python",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "watchers_count": 5,
+    "topics": [
+      "alexander-suvorov",
+      "babilonian-library",
+      "babylon",
+      "deterministic",
+      "local-data-regeneration-paradigm",
+      "pointer-based-security-paradigm",
+      "python-library",
+      "smartlegionlab"
+    ],
+    "created_at": "2025-03-22T07:02:11Z",
+    "updated_at": "2025-11-29T01:31:49Z",
+    "pushed_at": "2025-11-29T01:30:04Z",
+    "size": 6105,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
     "id": 951895155,
     "name": "smart-babylon-library",
     "full_name": "smartlegionlab/smart-babylon-library",
@@ -21,9 +53,9 @@
       "smartlegionlab"
     ],
     "created_at": "2025-03-20T12:13:16Z",
-    "updated_at": "2025-11-28T12:05:52Z",
-    "pushed_at": "2025-11-28T12:05:48Z",
-    "size": 1052,
+    "updated_at": "2025-11-29T00:33:13Z",
+    "pushed_at": "2025-11-29T00:33:09Z",
+    "size": 1076,
     "archived": false,
     "private": false,
     "fork": false,
@@ -814,34 +846,6 @@
     "updated_at": "2025-11-14T22:50:28Z",
     "pushed_at": "2025-08-24T01:20:41Z",
     "size": 180,
-    "archived": false,
-    "private": false,
-    "fork": false,
-    "owner": {
-      "login": "smartlegionlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
-    }
-  },
-  {
-    "id": 952929231,
-    "name": "babylonian-image-library",
-    "full_name": "smartlegionlab/babylonian-image-library",
-    "html_url": "https://github.com/smartlegionlab/babylonian-image-library",
-    "description": "A Python library that generates unique images based on a given seed or address. It also provides functionality to generate random addresses, which can be used to create random images.",
-    "language": "Python",
-    "stargazers_count": 5,
-    "forks_count": 1,
-    "watchers_count": 5,
-    "topics": [
-      "babilonian-library",
-      "babylon",
-      "python-library",
-      "smartlegionlab"
-    ],
-    "created_at": "2025-03-22T07:02:11Z",
-    "updated_at": "2025-11-14T22:50:29Z",
-    "pushed_at": "2025-08-24T01:14:29Z",
-    "size": 6105,
     "archived": false,
     "private": false,
     "fork": false,
