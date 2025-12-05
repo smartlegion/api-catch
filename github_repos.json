@@ -1,5 +1,28 @@
 [
   {
+    "id": 1110373742,
+    "name": "smart-task-manager",
+    "full_name": "smartlegionlab/smart-task-manager",
+    "html_url": "https://github.com/smartlegionlab/smart-task-manager",
+    "description": null,
+    "language": "Python",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "topics": [],
+    "created_at": "2025-12-05T05:16:20Z",
+    "updated_at": "2025-12-05T07:23:54Z",
+    "pushed_at": "2025-12-05T06:09:06Z",
+    "size": 70,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
     "id": 808102694,
     "name": "clipassman",
     "full_name": "smartlegionlab/clipassman",
@@ -66,7 +89,7 @@
     "created_at": "2024-05-15T06:34:18Z",
     "updated_at": "2025-12-05T04:54:48Z",
     "pushed_at": "2025-12-05T04:54:44Z",
-    "size": 235,
+    "size": 296,
     "archived": false,
     "private": false,
     "fork": false,
