@@ -1,5 +1,38 @@
 [
   {
+    "id": 808102694,
+    "name": "clipassman",
+    "full_name": "smartlegionlab/clipassman",
+    "html_url": "https://github.com/smartlegionlab/clipassman",
+    "description": "Command-line smart password manager implementing deterministic password generation - passwords are never stored, only regenerated when needed.",
+    "language": "Python",
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "watchers_count": 5,
+    "topics": [
+      "alexander-suvorov",
+      "alexander-suvorov-paradigms",
+      "console-app",
+      "console-application",
+      "local-data-regeneration-paradigm",
+      "pointer-based-security-paradigm",
+      "smart-password-manager",
+      "smartlegionlab",
+      "smartpassword"
+    ],
+    "created_at": "2024-05-30T11:45:02Z",
+    "updated_at": "2025-12-05T04:27:00Z",
+    "pushed_at": "2025-12-05T04:26:56Z",
+    "size": 623,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
     "id": 814936753,
     "name": "smart-password-manager-desktop",
     "full_name": "smartlegionlab/smart-password-manager-desktop",
@@ -22,7 +55,7 @@
     "created_at": "2024-06-14T02:52:08Z",
     "updated_at": "2025-12-05T03:38:40Z",
     "pushed_at": "2025-12-05T03:38:37Z",
-    "size": 1104,
+    "size": 1181,
     "archived": false,
     "private": false,
     "fork": false,
@@ -700,35 +733,6 @@
     "updated_at": "2025-11-10T19:06:56Z",
     "pushed_at": "2025-09-27T13:43:55Z",
     "size": 235,
-    "archived": false,
-    "private": false,
-    "fork": false,
-    "owner": {
-      "login": "smartlegionlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
-    }
-  },
-  {
-    "id": 808102694,
-    "name": "clipassman",
-    "full_name": "smartlegionlab/clipassman",
-    "html_url": "https://github.com/smartlegionlab/clipassman",
-    "description": " Cross-platform console smart password generator and manager.",
-    "language": "Python",
-    "stargazers_count": 5,
-    "forks_count": 2,
-    "watchers_count": 5,
-    "topics": [
-      "console-app",
-      "console-application",
-      "smart-password-manager",
-      "smartlegionlab",
-      "smartpassword"
-    ],
-    "created_at": "2024-05-30T11:45:02Z",
-    "updated_at": "2025-09-27T13:43:00Z",
-    "pushed_at": "2025-09-27T13:42:57Z",
-    "size": 623,
     "archived": false,
     "private": false,
     "fork": false,
