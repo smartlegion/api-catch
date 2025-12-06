@@ -1,5 +1,67 @@
 [
   {
+    "id": 814936753,
+    "name": "smart-password-manager-desktop",
+    "full_name": "smartlegionlab/smart-password-manager-desktop",
+    "html_url": "https://github.com/smartlegionlab/smart-password-manager-desktop",
+    "description": "Cross-platform desktop manager for deterministic smart passwords. Generate, manage, and retrieve passwords without storing them. Your secret phrase is the only key you need.",
+    "language": "Python",
+    "stargazers_count": 5,
+    "forks_count": 3,
+    "watchers_count": 5,
+    "topics": [
+      "alexander-suvorov",
+      "alexander-suvorov-paradigms",
+      "local-data-regeneration-paradigm",
+      "pointer-based-security-paradigm",
+      "python-application",
+      "smart-password",
+      "smart-password-manager",
+      "smartlegionlab",
+      "smartpasslib"
+    ],
+    "created_at": "2024-06-14T02:52:08Z",
+    "updated_at": "2025-12-06T03:03:15Z",
+    "pushed_at": "2025-12-06T03:02:50Z",
+    "size": 1154,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
+    "id": 1110373742,
+    "name": "smart-task-manager",
+    "full_name": "smartlegionlab/smart-task-manager",
+    "html_url": "https://github.com/smartlegionlab/smart-task-manager",
+    "description": "A modern desktop task management application built with Python and PyQt5, featuring an intuitive dark theme interface, priority-based organization, and automatic data persistence.",
+    "language": "Python",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "topics": [
+      "alexander-suvorov",
+      "smart-task-manager",
+      "smartlegionlab",
+      "task-manager",
+      "todoapp"
+    ],
+    "created_at": "2025-12-05T05:16:20Z",
+    "updated_at": "2025-12-06T02:46:41Z",
+    "pushed_at": "2025-12-06T02:46:38Z",
+    "size": 100,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
     "id": 427806292,
     "name": "smartpasslib",
     "full_name": "smartlegionlab/smartpasslib",
@@ -30,68 +92,7 @@
     "created_at": "2021-11-14T00:52:05Z",
     "updated_at": "2025-12-06T01:48:16Z",
     "pushed_at": "2025-12-06T01:48:12Z",
-    "size": 524,
-    "archived": false,
-    "private": false,
-    "fork": false,
-    "owner": {
-      "login": "smartlegionlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
-    }
-  },
-  {
-    "id": 814936753,
-    "name": "smart-password-manager-desktop",
-    "full_name": "smartlegionlab/smart-password-manager-desktop",
-    "html_url": "https://github.com/smartlegionlab/smart-password-manager-desktop",
-    "description": "Smart password manager implementing deterministic password generation - your passwords are never stored, only regenerated when needed.",
-    "language": "Python",
-    "stargazers_count": 5,
-    "forks_count": 3,
-    "watchers_count": 5,
-    "topics": [
-      "alexander-suvorov",
-      "alexander-suvorov-paradigms",
-      "local-data-regeneration-paradigm",
-      "pointer-based-security-paradigm",
-      "python-application",
-      "smart-password",
-      "smart-password-manager",
-      "smartlegionlab"
-    ],
-    "created_at": "2024-06-14T02:52:08Z",
-    "updated_at": "2025-12-06T00:02:55Z",
-    "pushed_at": "2025-12-06T00:02:52Z",
-    "size": 1154,
-    "archived": false,
-    "private": false,
-    "fork": false,
-    "owner": {
-      "login": "smartlegionlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
-    }
-  },
-  {
-    "id": 1110373742,
-    "name": "smart-task-manager",
-    "full_name": "smartlegionlab/smart-task-manager",
-    "html_url": "https://github.com/smartlegionlab/smart-task-manager",
-    "description": "A modern desktop task management application built with Python and PyQt5, featuring an intuitive dark theme interface, priority-based organization, and automatic data persistence.",
-    "language": "Python",
-    "stargazers_count": 2,
-    "forks_count": 1,
-    "watchers_count": 2,
-    "topics": [
-      "alexander-suvorov",
-      "smart-task-manager",
-      "smartlegionlab",
-      "task-manager",
-      "todoapp"
-    ],
-    "created_at": "2025-12-05T05:16:20Z",
-    "updated_at": "2025-12-05T23:13:00Z",
-    "pushed_at": "2025-12-05T23:11:57Z",
-    "size": 100,
+    "size": 636,
     "archived": false,
     "private": false,
     "fork": false,
