@@ -13,13 +13,13 @@
   },
   {
     "name": "clipassgen",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "summary": "clipassgen (Console Smart Password Generator CLI) - Terminal-based smart password generator with deterministic password generation. Generate passwords from secret phrases - same secret always produces the same password, no storage required.",
     "is_valid": true
   },
   {
     "name": "clipassman",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "summary": "Terminal-based smart password manager with deterministic password generation. Generate, manage, and retrieve passwords without storing them - all from your command line.",
     "is_valid": true
   },
