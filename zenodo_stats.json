@@ -7,9 +7,9 @@
   },
   "localDataParadigm": {
     "unique_views": 209,
-    "unique_downloads": 185,
+    "unique_downloads": 186,
     "total_views": 291,
-    "total_downloads": 302
+    "total_downloads": 304
   },
   "deterministicEngine": {
     "unique_views": 124,
@@ -19,8 +19,8 @@
   },
   "pchParadigm": {
     "unique_views": 60,
-    "unique_downloads": 56,
+    "unique_downloads": 57,
     "total_views": 83,
-    "total_downloads": 99
+    "total_downloads": 101
   }
 }
