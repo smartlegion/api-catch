@@ -1414,7 +1414,7 @@
     "description": "Console ToDo app. The ToDo console app is a simple and easy-to-use task management tool that works on the command line. It allows users to easily add, delete, edit, and view their tasks without the distraction of complex graphical interfaces. ",
     "language": "Python",
     "stargazers_count": 5,
-    "forks_count": 2,
+    "forks_count": 3,
     "watchers_count": 5,
     "topics": [
       "cli-app",
