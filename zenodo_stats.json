@@ -6,16 +6,16 @@
     "total_downloads": 0
   },
   "localDataParadigm": {
-    "unique_views": 221,
-    "unique_downloads": 204,
-    "total_views": 303,
-    "total_downloads": 325
+    "unique_views": 0,
+    "unique_downloads": 0,
+    "total_views": 0,
+    "total_downloads": 0
   },
   "deterministicEngine": {
-    "unique_views": 133,
-    "unique_downloads": 119,
-    "total_views": 185,
-    "total_downloads": 206
+    "unique_views": 0,
+    "unique_downloads": 0,
+    "total_views": 0,
+    "total_downloads": 0
   },
   "pchParadigm": {
     "unique_views": 0,
