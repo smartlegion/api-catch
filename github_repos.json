@@ -6,9 +6,9 @@
     "html_url": "https://github.com/smartlegionlab/smart-repository-manager-cli",
     "description": "A comprehensive command-line tool for managing GitHub repositories with advanced synchronization, SSH configuration management, and intelligent local repository management.",
     "language": "Python",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "forks_count": 1,
-    "watchers_count": 2,
+    "watchers_count": 3,
     "topics": [
       "alexander-suvorov",
       "github",
@@ -19,7 +19,7 @@
       "smartlegionlab"
     ],
     "created_at": "2025-12-27T00:16:06Z",
-    "updated_at": "2025-12-30T00:09:16Z",
+    "updated_at": "2026-01-20T06:24:49Z",
     "pushed_at": "2025-12-27T01:02:28Z",
     "size": 112,
     "archived": false,
