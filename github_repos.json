@@ -1,5 +1,33 @@
 [
   {
+    "id": 1123454870,
+    "name": "smart-repository-manager-core",
+    "full_name": "smartlegionlab/smart-repository-manager-core",
+    "html_url": "https://github.com/smartlegionlab/smart-repository-manager-core",
+    "description": "A Python library for managing Git repositories with intelligent synchronization, SSH configuration validation, and GitHub integration.",
+    "language": "Python",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "topics": [
+      "alexander-suvorov",
+      "github-repository-manager",
+      "smart-repository-manager",
+      "smartlegionlab"
+    ],
+    "created_at": "2025-12-26T22:59:16Z",
+    "updated_at": "2026-02-10T11:36:08Z",
+    "pushed_at": "2026-02-10T11:36:05Z",
+    "size": 39,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
     "id": 1047793052,
     "name": "smart-password-manager",
     "full_name": "smartlegionlab/smart-password-manager",
@@ -229,34 +257,6 @@
     "updated_at": "2026-01-26T07:27:26Z",
     "pushed_at": "2026-01-26T07:27:22Z",
     "size": 601,
-    "archived": false,
-    "private": false,
-    "fork": false,
-    "owner": {
-      "login": "smartlegionlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
-    }
-  },
-  {
-    "id": 1123454870,
-    "name": "smart-repository-manager-core",
-    "full_name": "smartlegionlab/smart-repository-manager-core",
-    "html_url": "https://github.com/smartlegionlab/smart-repository-manager-core",
-    "description": "A Python library for managing Git repositories with intelligent synchronization, SSH configuration validation, and GitHub integration.",
-    "language": "Python",
-    "stargazers_count": 3,
-    "forks_count": 1,
-    "watchers_count": 3,
-    "topics": [
-      "alexander-suvorov",
-      "github-repository-manager",
-      "smart-repository-manager",
-      "smartlegionlab"
-    ],
-    "created_at": "2025-12-26T22:59:16Z",
-    "updated_at": "2026-01-22T12:13:37Z",
-    "pushed_at": "2026-01-22T12:13:34Z",
-    "size": 39,
     "archived": false,
     "private": false,
     "fork": false,
