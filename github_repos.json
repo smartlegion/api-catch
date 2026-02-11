@@ -1,36 +1,5 @@
 [
   {
-    "id": 1154532904,
-    "name": "smart-repository-manager-gui",
-    "full_name": "smartlegionlab/smart-repository-manager-gui",
-    "html_url": "https://github.com/smartlegionlab/smart-repository-manager-gui",
-    "description": "A professional desktop application for intelligent GitHub repository management with visual synchronization, SSH configuration management, and comprehensive local repository organization.",
-    "language": "Python",
-    "stargazers_count": 1,
-    "forks_count": 0,
-    "watchers_count": 1,
-    "topics": [
-      "alexander-suvorov",
-      "gui-application",
-      "linux-gui-applications",
-      "python-gui-apps",
-      "repository-manager",
-      "smart-repoitory-manager",
-      "smartlegionlab"
-    ],
-    "created_at": "2026-02-10T13:52:00Z",
-    "updated_at": "2026-02-11T01:22:21Z",
-    "pushed_at": "2026-02-11T04:50:54Z",
-    "size": 278,
-    "archived": false,
-    "private": false,
-    "fork": false,
-    "owner": {
-      "login": "smartlegionlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
-    }
-  },
-  {
     "id": 1123472452,
     "name": "smart-repository-manager-cli",
     "full_name": "smartlegionlab/smart-repository-manager-cli",
@@ -50,8 +19,8 @@
       "smartlegionlab"
     ],
     "created_at": "2025-12-27T00:16:06Z",
-    "updated_at": "2026-02-11T01:48:55Z",
-    "pushed_at": "2026-02-11T01:48:52Z",
+    "updated_at": "2026-02-11T06:13:54Z",
+    "pushed_at": "2026-02-11T06:13:50Z",
     "size": 525,
     "archived": false,
     "private": false,
@@ -78,9 +47,40 @@
       "smartlegionlab"
     ],
     "created_at": "2025-12-26T22:59:16Z",
-    "updated_at": "2026-02-11T00:53:14Z",
-    "pushed_at": "2026-02-11T00:53:10Z",
-    "size": 66,
+    "updated_at": "2026-02-11T05:11:37Z",
+    "pushed_at": "2026-02-11T05:11:34Z",
+    "size": 69,
+    "archived": false,
+    "private": false,
+    "fork": false,
+    "owner": {
+      "login": "smartlegionlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90581597?v=4"
+    }
+  },
+  {
+    "id": 1154532904,
+    "name": "smart-repository-manager-gui",
+    "full_name": "smartlegionlab/smart-repository-manager-gui",
+    "html_url": "https://github.com/smartlegionlab/smart-repository-manager-gui",
+    "description": "A professional desktop application for intelligent GitHub repository management with visual synchronization, SSH configuration management, and comprehensive local repository organization.",
+    "language": "Python",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "topics": [
+      "alexander-suvorov",
+      "gui-application",
+      "linux-gui-applications",
+      "python-gui-apps",
+      "repository-manager",
+      "smart-repoitory-manager",
+      "smartlegionlab"
+    ],
+    "created_at": "2026-02-10T13:52:00Z",
+    "updated_at": "2026-02-11T05:11:01Z",
+    "pushed_at": "2026-02-11T05:10:57Z",
+    "size": 334,
     "archived": false,
     "private": false,
     "fork": false,
