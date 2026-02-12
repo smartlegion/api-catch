@@ -115,7 +115,7 @@
   },
   {
     "name": "smartprinter",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "summary": "Cross-platform smart printer for console applications",
     "is_valid": true
   },
